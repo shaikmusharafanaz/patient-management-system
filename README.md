@@ -1,6 +1,8 @@
 Patient Management System
 📌 Project Overview
 
+https://shaikmusharafanaz.github.io/patient-management-system/
+
 The Patient Management System is a web-based CRUD (Create, Read, Update, Delete) application developed using HTML, CSS, and JavaScript.
 
 The main purpose of this project is to manage patient information efficiently. It allows users to add new patients, view patient records, update existing information, delete records, and search for patients.
